@@ -1,0 +1,1 @@
+print("Here's a mother fucking HELLO to this mother fucking WORLD")
