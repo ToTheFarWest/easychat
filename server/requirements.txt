@@ -1,3 +1,4 @@
 flask
 passlib
 flask_sqlalchemy
+flask_httpauth
